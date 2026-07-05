@@ -1,5 +1,7 @@
 # Day 1 AWS Practice – Create EC2 Instance from AWS Console
 
+https://youtu.be/uqvyEs0vOBM
+
 <video src="../videos/d1-t1-ec2-create.mp4" controls width="700"></video>
 
 ## Overview

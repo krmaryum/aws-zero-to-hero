@@ -2,6 +2,8 @@
 
 <video src="../videos/d1-t1-s3-create-with-folder-files.mp4" controls width="700"></video>
 
+https://youtu.be/0Bh2YaZA_YA
+
 ## Overview
 
 In this practice, I used AWS CLI from an EC2 Ubuntu terminal to access an S3 bucket, list folders/files, and upload a test file to a specific S3 prefix/folder.

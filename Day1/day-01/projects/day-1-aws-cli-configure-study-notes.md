@@ -1,5 +1,7 @@
 # Day 1 AWS Practice – Configure AWS CLI
 
+https://youtu.be/XvnQ6WOMBBw
+
 
 <video src="../videos/d1-t1-aws-configure.mp4" controls width="700"></video>
 
